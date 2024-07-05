@@ -1,0 +1,4 @@
+# > Gmail
+DOMAIN,pop.gmail.com,Mail
+DOMAIN,imap.gmail.com,Mail
+DOMAIN,smtp.gmail.com,Mail
